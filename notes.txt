@@ -1,1 +1,2 @@
 I am learning Git
+i am changing the current value of the note
