@@ -1,1 +1,2 @@
 hello git
+second line is written at the file
