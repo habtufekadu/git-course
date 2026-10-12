@@ -1,1 +1,2 @@
 Hello from the feature branch
+this is a second day of the git course
